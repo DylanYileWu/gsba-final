@@ -1,86 +1,0 @@
-Competing_Country,Competing_Country_code,sports_involve,mean_age,totalgold,totalsilver,totalbronze,totalmedal,top_performance_sport,medal_for_top_performance_sport,int_oly_committee,hdi,life_expectancy_at_birth,mean_years_of_schooling,expected_years_of_schoolings,gross_national_income_per_captia,hdiranking,country,population,Country,Country_code,ISO_code,GDP
-Qatar,QAT,2,41,0,0,2,2,Athletics,1,QAT,0.851,78.4,9.1,13.8,119029,31,Qatar,"1849257",Qatar,QAT,QA,102100 
-Singapore,SIN,1,25,0,0,4,4,Table Tennis,4,SIN,0.901,82.3,10.2,15.4,72371,9,Singapore,"5246787",Singapore,SIN,SG,62400 
-Norway,NOR,4,27,15,1,1,17,Handball,14,NOR,0.944,81.5,12.6,17.6,63909,1,Norway,"4691849",Norway,NOR,NO,55400 
-Switzerland,SUI,4,30,2,2,0,4,Cycling,1,SUI,0.917,82.6,12.2,15.7,53762,3,Switzerland,"7639961",Switzerland      ,SUI,CH,54800 
-United States,USA,19,27,145,63,46,254,Swimming,68,USA,0.914,78.9,12.9,16.5,52308,5,United States,"311050977",United States     ,USA,US,52800 
-Hong Kong,HKG,1,25,0,0,1,1,Cycling,1,HKG,0.891,83.4,10,15.6,52383,15,Hong Kong S.A.R.,"7122508",Hong Kong     ,HKG,HK,52700 
-Netherlands,NED,8,21,21,29,19,69,Hockey,33,NED,0.915,81,11.9,17.9,42397,4,Netherlands,"16653734",Netherlands      ,NED,NL,43300 
-Canada,CAN,11,31,1,21,33,55,Football,18,CAN,0.902,81.5,12.3,15.9,41887,8,Canada,"34030589",Canada      ,CAN,CA,43100 
-Australia,AUS,11,24,18,37,59,114,Swimming,32,AUS,0.933,82.5,12.8,19.9,41524,2,Australia,"21766711",Australia      ,AUS,AU,43000 
-Kuwait,KUW,1,45,0,0,1,1,Shooting,1,KUW,0.814,74.3,7.2,14.6,85820,46,Kuwait,"2595628",Kuwait      ,KUW,KW,42100 
-Ireland,IRL,2,32,1,1,3,5,Boxing,4,IRL,0.899,80.7,11.6,18.6,33414,11,Ireland,"4670976",Ireland      ,IRL,IE,41300 
-Sweden,SWE,6,27,2,17,3,22,Handball,14,SWE,0.898,81.8,11.7,15.8,43201,12,Sweden,"9088728",Sweden      ,SWE,SE,40900 
-Chinese Taipei,TPE,2,21,0,1,1,2,Taekwondo,1,,,,,,,,Taiwan,"23071779",Taiwan      ,TPE,TW,39600 
-Germany,GER,13,23,45,27,22,94,Rowing,17,GER,0.911,80.7,12.9,16.3,43049,6,Germany,"81471834",Germany      ,GER,DE,39500 
-Belgium,BEL,3,31,0,1,2,3,Judo,1,BEL,0.881,80.5,10.9,16.2,39471,21,Belgium,"10431477",Belgium      ,BEL,BE,37800 
-Denmark,DEN,5,28,3,5,8,16,Rowing,7,DEN,0.9,79.4,12.1,16.9,42880,10,Denmark,"5529888",Denmark      ,DEN,DK,37800 
-Great Britain,GBR,17,25,48,30,48,126,Rowing,28,GBR,0.892,80.5,12.3,16.2,35002,14,United Kingdom,"62698362",United Kingdom     ,GBR,GB,37300 
-Japan,JPN,13,22,7,44,33,84,Football,18,JPN,0.89,83.6,11.5,15.3,36747,17,Japan,"127469543",Japan      ,JPN,JP,37100 
-Finland,FIN,2,27,0,1,4,5,Sailing,4,FIN,0.879,80.5,10.3,17,37366,24,Finland,"5259250",Finland      ,FIN,FI,35900 
-France,FRA,14,20,30,30,18,78,Swimming,21,FRA,0.884,81.8,11.1,16,36629,20,France,"65102719",France      ,FRA,FR,35700 
-South Korea,KOR,12,22,18,13,30,61,Football,18,KOR,0.891,81.5,11.8,17,30345,15,"Korea, South","48754657","Korea, South     ",KOR,KR,33200 
-Bahamas,BAH,1,33,4,0,0,4,Athletics,4,BAH,0.789,75.2,10.9,12.6,21414,51,"Bahamas, The","313312","Bahamas, The     ",BAH,BS,32000 
-Saudi Arabia,KSA,1,40,0,0,4,4,Equestrian,4,KSA,0.836,75.5,8.7,15.6,52109,34,Saudi Arabia,"26131703",Saudi Arabia     ,KSA,SA,31300 
-New Zealand,NZL,6,26,9,3,15,27,Rowing,9,NZL,0.91,81.1,12.5,19.4,32569,7,New Zealand,"4290347",New Zealand     ,NZL,NZ,30400 
-Spain,ESP,10,22,5,33,26,64,Handball,15,ESP,0.869,82.1,9.6,17.1,30561,27,Spain,"46754784",Spain      ,ESP,ES,30100 
-Bahrain,BRN,1,27,0,0,1,1,Athletics,1,BRN,0.815,76.6,9.4,14.4,32072,44,Bahrain,"1214705",Bahrain      ,BRN,BH,29800 
-Italy,ITA,15,24,16,22,30,68,Fencing,16,ITA,0.872,82.4,10.1,16.3,32669,26,Italy,"61016804",Italy      ,ITA,IT,29600 
-Slovenia,SLO,4,49,1,1,3,5,Rowing,2,SLO,0.874,79.6,11.9,16.8,26809,25,Slovenia,"2000092",Slovenia      ,SLO,SI,27400 
-Czech Republic,CZE,7,25,4,4,6,14,Canoeing,5,CZE,0.861,77.7,12.3,16.4,24535,28,Czech Republic,"10190213",Czech Republic     ,CZE,CZ,26300 
-Slovakia,SVK,2,27,0,1,4,5,Canoeing,3,SVK,0.83,75.4,11.6,15,25336,37,Slovakia,"5477038",Slovakia      ,SVK,SK,24700 
-Cyprus,CYP,1,22,0,1,0,1,Sailing,1,CYP,0.845,79.8,11.6,14,26771,32,Cyprus,"1120489",Cyprus      ,CYP,CY,24500 
-Greece,GRE,2,22,0,0,3,3,Rowing,2,GRE,0.853,80.8,10.2,16.5,24658,29,Greece,"10760136",Greece      ,GRE,GR,23600 
-Portugal,POR,1,22,0,2,0,2,Canoeing,2,POR,0.822,79.9,8.2,16.3,24130,41,Portugal,"10760305",Portugal      ,POR,PT,22900 
-Lithuania,LTU,5,26,2,1,2,5,Boxing,1,LTU,0.834,72.1,12.4,16.7,23740,35,Lithuania,"3535547",Lithuania      ,LTU,LT,22600 
-Estonia,EST,2,27,0,1,1,2,Athletics,1,EST,0.84,74.4,12,16.5,23387,33,Estonia,"1282963",Estonia      ,EST,EE,22400 
-Poland,POL,7,23,2,2,8,12,Athletics,2,POL,0.834,76.4,11.8,15.5,21487,35,Poland,"38441588",Poland      ,POL,PL,21100 
-Trinidad and Tobago,TRI,1,23,1,0,9,10,Athletics,10,TRI,0.766,69.9,10.8,12.3,25325,64,Trinidad and Tobago,"1227505",Trinidad and Tobago    ,TRI,TT,20300 
-Hungary,HUN,8,30,12,8,5,25,Canoeing,14,HUN,0.818,74.6,11.3,15.4,21239,43,Hungary,"9976062",Hungary      ,HUN,HU,19800 
-Gabon,GAB,1,23,0,1,0,1,Taekwondo,1,GAB,0.674,63.5,7.4,12.3,16977,112,Gabon,"1576665",Gabon      ,GAB,GA,19200 
-Latvia,LAT,2,25,1,0,2,3,Beach Volleyball,2,LAT,0.81,72.2,11.5,15.5,22186,48,Latvia,"2204708",Latvia      ,LAT,LV,19100 
-Argentina,ARG,4,25,1,17,3,21,Hockey,17,ARG,0.808,76.3,9.8,16.4,17297,49,Argentina,"41769726",Argentina      ,ARG,AR,18600 
-Russia,RUS,20,17,50,39,51,140,Athletics,23,RUS,0.778,68,11.7,14,22617,57,Russia,"138739892",Russia      ,RUS,RU,18100 
-Croatia,CRO,6,38,15,4,16,35,Handball,15,CRO,0.812,77,11,14.5,19025,47,Croatia,"4483804",Croatia      ,CRO,HR,17800 
-Malaysia,MAS,2,19,0,1,1,2,Badminton,1,MAS,0.773,75,9.5,12.7,21824,62,Malaysia,"28728607",Malaysia      ,MAS,MY,17500 
-Botswana,BOT,1,18,0,1,0,1,Athletics,1,BOT,0.683,64.4,8.8,11.7,14792,109,Botswana,"2065398",Botswana      ,BOT,BW,16400 
-Puerto Rico,PUR,2,27,0,1,1,2,Athletics,1,,,,,,,,Puerto Rico,"3989133",Puerto Rico     ,PUR,PR,16300 
-Belarus,BLR,6,22,3,12,8,23,Canoeing,8,BLR,0.786,69.9,11.5,15.7,16403,53,Belarus,"9577552",Belarus      ,BLR,BY,16100 
-Mexico,MEX,4,24,16,5,3,24,Football,16,MEX,0.756,77.5,8.5,12.8,15854,71,Mexico,"113724226",Mexico      ,MEX,MX,15600 
-Turkey,TUR,3,22,2,2,1,5,Athletics,2,TUR,0.759,75.3,7.6,14.4,18391,69,Turkey,"78785548",Turkey      ,TUR,TR,15300 
-Bulgaria,BUL,2,29,0,1,1,2,Boxing,1,BUL,0.777,73.5,10.6,14.3,15402,58,Bulgaria,"7093635",Bulgaria      ,BUL,BG,14400 
-Romania,ROM,5,22,2,8,6,16,Gymnastics,7,ROM,0.785,73.8,10.7,14.1,17433,54,Romania,"21904551",Romania      ,ROM,RO,14400 
-Kazakhstan,KAZ,5,26,7,1,5,13,Boxing,4,KAZ,0.757,66.5,10.4,15,19441,70,Kazakhstan,"17304513",Kazakhstan      ,KAZ,KZ,14100 
-Grenada,GRN,1,19,1,0,0,1,Athletics,1,GRN,0.744,72.8,8.6,15.8,10339,79,Grenada,"108419",Grenada      ,GRN,GD,13800 
-Venezuela,VEN,1,26,1,0,0,1,Fencing,1,VEN,0.764,74.6,8.6,14.2,17067,67,Venezuela,"27635743",Venezuela      ,VEN,VE,13600 
-Iran,IRI,4,24,4,5,3,12,Wrestling,6,IRI,0.749,74,7.8,15.2,13451,75,Iran,"77891220",Iran      ,IRI,IR,12800 
-Brazil,BRA,9,0,14,34,11,59,Volleyball,24,BRA,0.744,73.9,7.2,15.2,14275,79,Brazil,"203429773",Brazil      ,BRA,BR,12100 
-South Africa,RSA,4,20,6,2,1,9,Rowing,4,RSA,0.658,56.9,9.9,13.1,11788,118,South Africa,"49004031",South Africa     ,RSA,ZA,11500 
-Colombia,COL,6,26,1,3,4,8,Cycling,3,COL,0.711,74,7.1,13.2,11527,98,Colombia,"44725543",Colombia      ,COL,CO,11100 
-Serbia,SCG,3,26,1,1,14,16,Waterpolo,13,SCG,0.745,74.1,9.5,13.6,11301,77,Serbia,"7310555",Serbia      ,SCG,RS,11100 
-Azerbaijan,AZE,3,25,2,2,6,10,Wrestling,7,AZE,0.747,70.8,11.2,11.8,15725,76,Azerbaijan,"9397279",Azerbaijan      ,AZE,AZ,10800 
-Cuba,CUB,7,30,5,3,6,14,Boxing,4,CUB,0.815,79.3,10.2,14.5,19844,44,Cuba,"11087330",Cuba      ,CUB,CU,10200 
-Thailand,THA,3,22,0,2,1,3,Boxing,1,THA,0.722,74.4,7.3,13.1,13364,89,Thailand,"66720153",Thailand      ,THA,TH,9900 
-Tunisia,TUN,2,28,1,1,1,3,Swimming,2,TUN,0.721,75.9,6.5,14.6,10440,90,Tunisia,"10629186",Tunisia      ,TUN,TN,9900 
-China,CHN,20,20,56,40,29,125,Swimming,15,CHN,0.719,75.3,7.5,12.9,11477,91,China,"1336718015",China      ,CHN,CN,9800 
-Dominican Republic,DOM,1,34,1,1,0,2,Athletics,2,DOM,0.7,73.4,7.5,12.3,10844,102,Dominican Republic,"9956648",Dominican Republic     ,DOM,DO,9700 
-Jamaica,JAM,1,22,8,9,8,25,Athletics,25,JAM,0.715,73.5,9.6,12.5,8170,96,Jamaica,"2868380",Jamaica      ,JAM,JM,9000 
-Algeria,ALG,1,24,1,0,0,1,Athletics,1,ALG,0.717,71,7.6,14,12555,93,Algeria,"34994937",Algeria      ,ALG,DZ,7500 
-Ukraine,UKR,9,27,9,5,12,26,Athletics,6,UKR,0.734,68.5,11.3,15.1,8215,83,Ukraine,"45134707",Ukraine      ,UKR,UA,7400 
-Egypt,EGY,2,32,0,2,0,2,Fencing,1,EGY,0.682,71.2,6.4,13,10400,110,Egypt,"82079636",Egypt      ,EGY,EG,6600 
-Armenia,ARM,2,20,0,1,2,3,Wrestling,2,ARM,0.73,74.6,10.8,12.3,7952,87,Armenia,"2967975",Armenia      ,ARM,AM,6300 
-Georgia,GEO,2,32,1,3,3,7,Wrestling,6,GEO,0.744,74.3,12.1,13.2,6890,79,Georgia,"4585874",Georgia      ,GEO,GE,6100 
-Morocco,MAR,1,25,0,0,1,1,Athletics,1,MAR,0.617,70.9,4.4,11.6,6905,129,Myanmar (Burma),"53999804",Morocco      ,MAR,MA,5500 
-Guatemala,GUA,1,21,0,1,0,1,Athletics,1,GUA,0.628,72.1,5.6,10.7,6866,125,Guatemala,"13824463",Guatemala      ,GUA,GT,5300 
-Indonesia,INA,1,23,0,1,1,2,Weightlifting,2,INA,0.684,70.8,7.5,12.7,8970,108,Indonesia,"245613043",Indonesia      ,INA,ID,5200 
-India,IND,4,29,0,2,4,6,Shooting,2,IND,0.586,66.4,4.4,11.7,5150,135,India,"1189172906",India      ,IND,IN,4000 
-Mongolia,MGL,3,22,0,2,3,5,Boxing,2,MGL,0.698,67.5,8.3,15,8466,103,Mongolia,"3133318",Mongolia,MGL,MN,4000 
-Moldova,MDA,1,23,0,0,2,2,Weightlifting,2,MDA,0.663,68.9,9.8,11.8,5041,114,Moldova,"3694121",Moldova      ,MDA,MD,3800 
-Uzbekistan,UZB,3,33,1,0,3,4,Wrestling,2,UZB,0.661,68.2,10,11.5,5227,116,Uzbekistan,"28128600",Uzbekistan      ,UZB,UZ,3800 
-Tajikistan,TJK,1,19,0,0,1,1,Boxing,1,TJK,0.607,67.2,9.9,11.2,2424,133,Tajikistan,"7627200",Tajikistan      ,TJK,TJ,2300 
-Montenegro,MTN,1,25,0,14,0,14,Handball,14,MTN,0.487,61.6,3.7,8.2,2988,161,Mauritania,"3281634",Mauritania      ,MTN,MR,2200 
-Kenya,KEN,1,28,2,4,5,11,Athletics,11,KEN,0.535,61.7,6.3,11,2158,147,Kenya,"41943504",Kenya      ,KEN,KE,1800 
-North Korea,PRK,3,23,4,0,2,6,Weightlifting,4,,,,,,,,"Korea, North","24457492","Korea, North     ",PRK,KP,1800 
-Uganda,UGA,1,23,1,0,0,1,Athletics,1,UGA,0.484,59.2,5.4,10.8,1335,164,Uganda,"34612250",Uganda      ,UGA,UG,1500 
-Ethiopia,ETH,1,27,3,1,3,7,Athletics,7,ETH,0.435,63.6,2.4,8.5,1303,173,Ethiopia,"90873739",Ethiopia      ,ETH,ET,1300 
-Afghanistan,AFG,1,25,0,0,1,1,Taekwondo,1,AFG,0.468,60.9,3.2,9.3,1904,169,Afghanistan,"29757566",Afghanistan      ,AFG,AF,1100 
